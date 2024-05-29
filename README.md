@@ -7,7 +7,7 @@ Web Developer | Engineer
 
 ## About Me
 
-I am a passionate Web Developer | Engineer. I specialize in frontend development and have experience in backend integrations. I like working with modern technologies and creating user-friendly applications. 
+I am a passionate Web Developer | Engineer. Specialize in frontend development and have experience in backend integrations. I like working with modern technologies and creating user-friendly applications. 
 
 - 🔭 I’m currently working on various web projects and open-source contributions.
 - 🌱 I’m continuously learning and improving my skills in web development.
