@@ -23,7 +23,7 @@ I am a passionate Web Developer | Engineer. Specialize in frontend development a
 
 ## 🌐 Connect with Me
 
-- [Portfolio](https://tharuanish.vercel.app)
+- [Portfolio](https://tharuanish.vercel.app/)
 - [GitHub](https://github.com/tharuAnish)
 - [LinkedIn](https://www.linkedin.com/in/tharuanish/)
 - [Email](mailto:namoanishtharu@gmail.com)
