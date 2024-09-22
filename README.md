@@ -1,13 +1,13 @@
 # Hi, I'm Anish Tharu! 👋
 
-![github-header-image](https://github.com/tharuAnish/tharuanish/assets/93382631/dd6b82f3-1374-4b82-82fa-8e6a7623ea1f)
+![Linkedin_Banner](https://github.com/user-attachments/assets/b3fd092b-cc4c-452a-9276-514ef297a105)
 
 
-Web Developer | Engineer
+Full-stack Developer | Engineer
 
 ## About Me
 
-I am a passionate Web Developer | Engineer. Specialize in frontend development and have experience in backend integrations. I like working with modern technologies and creating user-friendly applications. 
+I am a passionate Full Stack Developer | Engineer. Specialize in frontend development and have experience in backend integrations. I like working with modern technologies and creating user-friendly applications. 
 
 - 🔭 I’m currently working on various web projects and open-source contributions.
 - 🌱 I’m continuously learning and improving my skills in web development.
