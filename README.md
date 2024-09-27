@@ -1,7 +1,5 @@
 # Hi, I'm Anish Tharu! 👋
 
-![Linkedin_Banner](https://github.com/user-attachments/assets/b3fd092b-cc4c-452a-9276-514ef297a105)
-
 
 Full-stack Developer | Engineer
 
